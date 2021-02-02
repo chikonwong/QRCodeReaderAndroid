@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QRCodeReader-Android</string>
+    <string name="my_string">horse</string>
+    <string name="settings">settings</string>
 </resources>

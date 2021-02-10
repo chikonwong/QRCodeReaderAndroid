@@ -12,7 +12,7 @@
         <activity android:name=".SettingsActivity"></activity>
         <activity
             android:name=".MainActivity"
-            android:label="Home">
+            android:label="AA">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

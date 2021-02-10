@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("QRCodeRRR"); // set inside app title
+        setTitle("hi"); // set inside app title
     }
     public void launchSettings (View v){
         // launch a new acrivity
